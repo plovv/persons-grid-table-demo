@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoPersonsTable</string>
+    <string name="search_text">Search person\'s name</string>
+
+    <string name="person_first_name">Firstname: %s</string>
+    <string name="person_last_name">Lastname: %s</string>
+    <string name="person_age">Age: %s</string>
+    <string name="person_email">Email: %s</string>
+    <string name="person_address">Address: %s</string>
+    <string name="person_phone_number">Phone: %s</string>
+</resources>
